@@ -1,4 +1,4 @@
-/* SimpleCalc: Four Function (+,-,*,/)Calculator */
+/* SimpleCalc: Four Function (+,-,*,/) Calculator */
 import java.io.*; 
 import java.util.Scanner;
 	public class SimpleCalc
